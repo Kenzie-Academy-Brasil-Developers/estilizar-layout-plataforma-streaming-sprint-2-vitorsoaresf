@@ -1,0 +1,6 @@
+html,body,header,figure,img,figcaption,div,section,h1,h2,h3,ul,
+li,footer{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
