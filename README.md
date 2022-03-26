@@ -1,5 +1,5 @@
 # Entrega: Estilizar um Layout de uma plataforma de streaming
-Link App - https://kenzie-academy-brasil-developers.github.io/estilizar-layout-plataforma-streaming-sprint-2-vitorsoaresf/
+Link App - https://kenzie-academy-brasil-developers.github.io/estilizar-layout-plataforma-streaming-sprint-2-vitorsoaresf/<br>
 Para esta entrega, você continuará prototipando um layout de uma plataforma de streaming, mas desta vez se concentrando em um layout com uma lista de usuários mostrado no mockup abaixo.
 
 ## Visão Geral
